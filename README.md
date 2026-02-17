@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-010001?style=for-the-badge&logo=Python)
 ![SQL](https://img.shields.io/badge/SQL-010001?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-010001?style=for-the-badge&logo=JavaScript)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-010001?style=for-the-badge&logo=terminal&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-010001?style=for-the-badge&logo=TypeScript)
 ![GDScript](https://img.shields.io/badge/GDScript-010001?style=for-the-badge&logo=godot-engine)
 
