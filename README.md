@@ -13,5 +13,7 @@
 ![React](https://img.shields.io/badge/React-010001?style=for-the-badge&logo=React)
 ![ArchLinux](https://img.shields.io/badge/ArchLinux-010001?style=for-the-badge&logo=ArchLinux)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilphi&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilphi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
